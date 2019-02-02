@@ -1,5 +1,11 @@
 {
-  "name": "hello_app",
+  "name": "wcl",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "bootstrap": "^4.2.1"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "wcl <wcl19941007@163.com>",
+  "license": "MIT"
 }
